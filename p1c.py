@@ -1,0 +1,13 @@
+swv1 = input("Enter: ")
+swv2 = swv1.replace("a", "?")
+swv3 = swv2.replace("e", "?")
+swv4 = swv3.replace("i", "?")
+swv5 = swv4.replace("o", "?")
+swv6 = swv5.replace("u", "?")
+swv7 = swv6.replace("A", "?")
+swv8 = swv7.replace("E", "?")
+swv9 = swv8.replace("I", "?")
+swv10 = swv9.replace("O", "?")
+swv11 = swv10.replace("U", "?")
+
+print(swv11)
